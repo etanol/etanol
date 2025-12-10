@@ -1,5 +1,5 @@
-Out of sympathy with [the Zig development team][1], I have moved all my
-repositories [moved to Codeberg][2].
+Out of sympathy with [the Zig development team][1], I have moved all [my
+repositories to Codeberg][2].
 
 Still, a software...
 
